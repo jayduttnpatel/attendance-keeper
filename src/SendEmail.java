@@ -22,9 +22,9 @@ public class SendEmail implements Runnable {
     
     private static String subject="Attandace Keeper";
     
-    private static String admin_email="attendancekeeper19@gmail.com";
+    private static String admin_email="******";
     
-    private static String admin_pass="miniproject";
+    private static String admin_pass="******";
     
     private Thread t;
     
